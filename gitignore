@@ -1,0 +1,33 @@
+# .gitignore
+
+.cache/
+.docker/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.m2/
+.matplotlib/
+.vscode/
+3D Objects/
+AIML.docx
+AppData/
+Contacts/
+Creative Cloud Files Personal Account annie.502110@sxcce.edu.in F11A1F4264C2487F0A495F92@AdobeID/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+anaconda3/
+devops/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+package-lock.json
